@@ -232,17 +232,14 @@ const Blog = () => {
     <div className="grid grid-cols-2 gap-5">
       <div className="">
         <iframe
-          src="https://www.youtube.com/embed/rk7jC7I7KRQ?si=FCWlbhOut700_D7N"
+          src=""
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           className="w-full h-36"
         ></iframe>
-        <h4 className="mb-0.5 text-xs font-medium">DSA with Jay: C++ STL</h4>
-        <p className="text-xs text-neutral-400 h-20">
-          Learn the basics of STL in C++ and their applications in solving
-          problems.
-        </p>
+        <h4 className="mb-0.5 text-xs font-medium"> DSA With prakash</h4>
+        <p className="text-xs text-neutral-400 h-20">TechnoDevilX</p>
         <button className="ml-auto mt-4 flex items-center gap-1 text-xs text-indigo-300">
           <a href="https://www.youtube.com/@Dsa_withjay">YouTube Channel</a>
           <FiArrowRight />
@@ -252,17 +249,17 @@ const Blog = () => {
         <p>
           <img
             align="center"
-            src="https://leetcard.jacoblin.cool/dattuajay005?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap"
+            src="https://leetcard.jacoblin.cool/GKNSLPRAKASH?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap"
             alt="LeetCode Stats"
             className="h-36"
           />
         </p>
-        <h4 className="mb-0.5 text-xs font-medium">Damo Leetcode</h4>
+        <h4 className="mb-0.5 text-xs font-medium">Prakash Leetcode</h4>
         <div className="text-xs text-neutral-400 h-20">
           This all My Dsa Journey if you want see more click on the below
         </div>
         <button className="ml-auto mt-4 flex items-center gap-1 text-xs text-indigo-300">
-          <a href="https://leetcode.com/u/dattuajay005/">LeetCode</a>
+          <a href="https://leetcode.com/u/GKNSLPRAKASH/">LeetCode</a>
           <FiArrowRight />
         </button>
       </div>
