@@ -76,7 +76,7 @@ const AchievementsTable = () => {
       description:
         "Developed a full-stack e-commerce platform with a seamless and responsive user interface. This project taught me how to handle state management with Redux, implement secure user authentication, and design intuitive layouts for better user experiences.",
       techStack: ["MERN", "Redux", "Ant Design", "TailwindCSS"],
-      link: "https://www.shopitworld.in/",
+      // link: "https://www.shopitworld.in/",
     },
 
     {
@@ -86,7 +86,7 @@ const AchievementsTable = () => {
       description:
         "Built a secure file-sharing application that allows users to share files without requiring login credentials. Through this project, I gained insights into API integration, secure file handling, and maintaining user privacy while ensuring a smooth workflow.",
       techStack: ["React", "Express.js", "Tailwind CSS"],
-      link: "https://tempad.netlify.app/",
+      // link: "https://tempad.netlify.app/",
     },
 
     {
