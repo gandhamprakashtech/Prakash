@@ -81,7 +81,7 @@ export function Contact() {
         {/* Email Field */}
         <div>
           <label htmlFor="email" className="block text-white mb-1">
-            Email Address
+            enter Email Address
           </label>
           <input
             type="email"
