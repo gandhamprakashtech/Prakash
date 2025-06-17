@@ -81,7 +81,7 @@ function Home() {
                   tools and frameworks to create optimized user experiences.
                 </p>
                 <a
-                  href="https://drive.google.com/file/d/1fa5m0DRQlogFaQq4o9sJUkMq52lGAh1U/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1y4do3RQFVlNztKsNk4OM8QFYAtioKokV/view?usp=sharing"
                   className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-neutral-100 hover:underline"
                 >
                   Download Resume
