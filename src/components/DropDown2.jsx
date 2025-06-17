@@ -220,11 +220,11 @@ const MENU_ITEMS = [
     label: "Contact",
     icon: <FiPhone className="mb-1 text-base text-indigo-300" />,
   },
-  {
-    id: "About",
-    label: "About",
-    icon: <FiActivity className="mb-1 text-base text-indigo-300" />,
-  },
+  // {
+  //   id: "About",
+  //   label: "About",
+  //   icon: <FiActivity className="mb-1 text-base text-indigo-300" />,
+  // },
 ];
 
 const Blog = () => {
@@ -241,7 +241,7 @@ const Blog = () => {
         <h4 className="mb-0.5 text-xs font-medium"> DSA With prakash</h4>
         <p className="text-xs text-neutral-400 h-20">TechnoDevilX</p>
         <button className="ml-auto mt-4 flex items-center gap-1 text-xs text-indigo-300">
-          <a href="https://www.youtube.com/@Dsa_withjay">YouTube Channel</a>
+          <a href="https://www.youtube.com/@TechnoDevilX">YouTube Channel</a>
           <FiArrowRight />
         </button>
       </div>
