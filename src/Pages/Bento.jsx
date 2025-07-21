@@ -275,9 +275,20 @@ const AchievementsTable = () => {
       year: "2024",
       title: "Crop Recommendation Using Supervised Learning Techniques",
       link: "https://ieeexplore.ieee.org/document/10922060",
-      journal: "IEEE Xplore: 18 March 2025",
+      journal:
+        "2024 International Conference on Computing and Intelligent Reality Technologies (ICCIRT)",
       description:
         "This research compares Naive Bayes, SVM, and Random Forest algorithms for crop recommendation using soil and climate parameters, highlighting their effectiveness in improving precision agriculture.",
+    },
+    {
+      year: "2025",
+      title:
+        "Efficient Detection of Runways, Taxiways, and Aprons in Commercial Airports Using YOLOv8 and High-Resolution Satellite Imagery",
+      link: "https://ieeexplore.ieee.org/document/10969333",
+      journal:
+        "2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC)",
+      description:
+        "This project leverages high-resolution satellite imagery and deep learning models like YOLOv8 and Faster R-CNN to accurately detect key airport facilities, enhancing infrastructure management and operational efficiency.",
     },
   ];
 
