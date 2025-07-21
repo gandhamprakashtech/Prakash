@@ -216,6 +216,11 @@ const MENU_ITEMS = [
     icon: <FiAward className="mb-1 text-base text-indigo-300" />,
   },
   {
+    id: "Pub",
+    label: "Publications",
+    icon: <FiAward className="mb-1 text-base text-indigo-300" />,
+  },
+  {
     id: "contact",
     label: "Contact",
     icon: <FiPhone className="mb-1 text-base text-indigo-300" />,

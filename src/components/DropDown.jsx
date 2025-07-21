@@ -219,6 +219,14 @@ const Pricing = () => {
         <FiAward className="mb-2 text-xl text-indigo-300" />
         <span className="text-xs">Achievements</span>
       </div>
+
+      <div
+        onClick={() => scrollToSection("Pub")}
+        className="flex w-full flex-col items-center justify-center py-2 text-neutral-400 transition-colors hover:text-neutral-50"
+      >
+        <FiAward className="mb-2 text-xl text-indigo-300" />
+        <span className="text-xs">Publications</span>
+      </div>
     </div>
   );
 };

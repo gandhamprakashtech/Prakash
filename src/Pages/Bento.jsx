@@ -270,6 +270,17 @@ const AchievementsTable = () => {
     "Problem Solving",
   ];
 
+  const publications = [
+    {
+      year: "2024",
+      title: "Crop Recommendation Using Supervised Learning Techniques",
+      link: "https://ieeexplore.ieee.org/document/10922060",
+      journal: "IEEE Xplore: 18 March 2025",
+      description:
+        "This research compares Naive Bayes, SVM, and Random Forest algorithms for crop recommendation using soil and climate parameters, highlighting their effectiveness in improving precision agriculture.",
+    },
+  ];
+
   return (
     <div className="h-full flex flex-col p-4 md:p-6 lg:p-10 space-y-16 backdrop-blur-md">
       {/* Education Section */}
@@ -469,6 +480,52 @@ const AchievementsTable = () => {
                     ))}
                   </div>
                 )}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Publications Section */}
+      <div id="publications" className="h-auto pt-8 backdrop-blur-lg">
+        <h1
+          className="text-3xl md:text-3xl lg:text-5xl font-light mt-12 mb-6 text-center text-white"
+          data-aos="zoom-out-down"
+        >
+          Publications
+        </h1>
+        <div className="relative space-y-6 md:space-y-8">
+          {publications.map((pub, index) => (
+            <div
+              key={index}
+              className="flex flex-col sm:flex-row items-start sm:items-center gap-6 md:gap-10 p-4 md:p-6 rounded-lg"
+            >
+              <div
+                className="text-sm md:text-lg font-semibold text-neutral-600 w-full sm:text-center"
+                data-aos="fade-right"
+              >
+                {pub.year}
+              </div>
+              <div
+                className="flex flex-col space-y-1 md:space-y-2 w-full text-center sm:text-left"
+                data-aos="fade-left"
+              >
+                <div className="text-lg md:text-2xl font-light text-white">
+                  <a
+                    href={pub.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-blue-500"
+                  >
+                    {pub.title}
+                  </a>
+                </div>
+                <div className="text-sm md:text-base text-gray-300">
+                  {pub.journal}
+                </div>
+                <div className="text-sm md:text-base text-gray-400">
+                  {pub.description}
+                </div>
               </div>
             </div>
           ))}
