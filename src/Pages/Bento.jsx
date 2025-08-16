@@ -35,6 +35,22 @@ const AchievementsTable = () => {
 
     {
       year: "2025",
+      title: (
+        <a
+          href="https://www.linkedin.com/posts/gandhamkumarnslprakash_synthetix-hackathon-innovation-activity-7313950089775837184-yL8Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6wDVIBqMm7QFN23Agr9tdqK_swKXa0Gzo"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-blue-500 "
+        >
+          Synthetix 3.0 Hackathon at VIT Chennai
+        </a>
+      ),
+      description:
+        "Participated in a 36-hour innovation challenge, collaborating in a 2-member team to design and deliver a working prototype under real-world constraints. Gained hands-on experience in problem-solving under pressure, teamwork, and rapid execution, while strengthening resilience, adaptability, and innovation through continuous brainstorming, debugging, and iterative development.",
+      technologies: [],
+    },
+    {
+      year: "2025",
       title: "Solved 300+ Coding Problems Across Platforms",
       description:
         "Solved over 300 problems across platforms like LeetCode, HackerRank, and GFG—focusing on data structures, algorithms, and competitive programming to build strong problem-solving foundations.",
