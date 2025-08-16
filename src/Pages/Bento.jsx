@@ -35,20 +35,19 @@ const AchievementsTable = () => {
 
     {
       year: "2025",
-      title: "Academic Excellence Recognition",
-      description:
-        "Honored by my college(VRSEC) with a scholarship and formal appreciation for consistently excelling in academics. This recognition highlights my commitment to academic excellence, strong work ethic, and top-ranking performance among peers.",
-      technologies: [],
-    },
-
-    {
-      year: "2024",
       title: "Solved 300+ Coding Problems Across Platforms",
       description:
         "Solved over 300 problems across platforms like LeetCode, HackerRank, and GFG—focusing on data structures, algorithms, and competitive programming to build strong problem-solving foundations.",
       technologies: ["Python", "C++", "Java", "Problem Solving"],
     },
 
+    {
+      year: "2024",
+      title: "Academic Excellence Recognition",
+      description:
+        "Honored by my college(VRSEC) with a scholarship and formal appreciation for consistently excelling in academics. This recognition highlights my commitment to academic excellence, strong work ethic, and top-ranking performance among peers.",
+      technologies: [],
+    },
     {
       year: "2022",
       title: "AP ECET – State Rank 24",
