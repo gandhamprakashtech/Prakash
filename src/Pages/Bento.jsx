@@ -210,13 +210,13 @@ const AchievementsTable = () => {
         "Completed a Virtual Internship as a C/C++ Developer at Amaravathi Software Innovations Pvt. Ltd from June to July 2024. Assisted in writing and debugging C/C++ code to improve application stability and performance. Worked with the development team to implement new features, fix issues, and support overall project development within set timelines.",
       technologies: ["C++", "C", "Git"],
     },
-    // {
-    //   year: "2023",
-    //   title: "Java Developer Intern",
-    //   description:
-    //     "Worked as a Java developer intern at Henotic Technologies, building Java-based backend services and APIs. Additionally, focused on frontend development using JavaFX and Java Swing. Developed a Sudoku game project, gaining hands-on experience in desktop application development. Utilized backtracking algorithms to implement the solution for the Sudoku problem, enhancing problem-solving and backend development skills.",
-    //   technologies: ["Java", "JavaFX", "Java Swing", "Backtracking"],
-    // },
+    {
+      year: "Jul 2024 - Jan 2025",
+      title: "Mobile App Developer – StuMart",
+      description:
+        "Developed StuMart, a mobile marketplace application built with React Native and Firebase, enabling students to seamlessly buy, sell, and exchange academic resources such as books, electronics, and stationery. Implemented secure user authentication, real-time database integration, and an intuitive user interface to enhance accessibility and efficiency within campus communities.",
+      technologies: ["ReactNative", "Firebase", "Figma", "Github", "Git"],
+    },
   ];
 
   const education = [
