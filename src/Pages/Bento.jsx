@@ -202,20 +202,19 @@ const AchievementsTable = () => {
         "Worked as a Frontend Developer Intern at Axis Intelligence Inc, where I developed and optimized user interfaces using React.js and TypeScript. Contributed to building responsive, user-friendly components and translated design specifications into clean, maintainable code while collaborating with cross-functional teams to enhance overall UI/UX.",
       technologies: ["React", "TypeScript", "CSS", "HTML", "JavaScript", "Git"],
     },
-
-    {
-      year: "Jun 2024 - Sep 2024",
-      title: "Assistant C/C++ Developer Virtual Internship",
-      description:
-        "Completed a Virtual Internship as a C/C++ Developer at Amaravathi Software Innovations Pvt. Ltd from June to July 2024. Assisted in writing and debugging C/C++ code to improve application stability and performance. Worked with the development team to implement new features, fix issues, and support overall project development within set timelines.",
-      technologies: ["C++", "C", "Git"],
-    },
     {
       year: "Jul 2024 - Jan 2025",
       title: "Mobile App Developer – StuMart",
       description:
         "Developed StuMart, a mobile marketplace application built with React Native and Firebase, enabling students to seamlessly buy, sell, and exchange academic resources such as books, electronics, and stationery. Implemented secure user authentication, real-time database integration, and an intuitive user interface to enhance accessibility and efficiency within campus communities.",
       technologies: ["ReactNative", "Firebase", "Figma", "Github", "Git"],
+    },
+    {
+      year: "Jun 2024 - Sep 2024",
+      title: "Assistant C/C++ Developer Virtual Internship",
+      description:
+        "Completed a Virtual Internship as a C/C++ Developer at Amaravathi Software Innovations Pvt. Ltd from June to July 2024. Assisted in writing and debugging C/C++ code to improve application stability and performance. Worked with the development team to implement new features, fix issues, and support overall project development within set timelines.",
+      technologies: ["C++", "C", "Git"],
     },
   ];
 
