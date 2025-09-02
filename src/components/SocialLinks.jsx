@@ -76,7 +76,7 @@ const SocialLinks = () => {
 
           {/* Mobile Number */}
           <Tooltip title="Mobile Number">
-            <a href="tel:+919392668228">
+            <a href="tel:+919392668338">
               <MobileOutlined className="text-white text-3xl hover:text-blue-400 transform transition-transform duration-300 hover:scale-125" />
             </a>
           </Tooltip>
