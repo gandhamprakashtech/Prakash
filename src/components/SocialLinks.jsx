@@ -46,7 +46,7 @@ const SocialLinks = () => {
           {/* LeetCode */}
           <Tooltip title="LeetCode">
             <a
-              href="https://leetcode.com/u/GKNSLPRAKASH/"
+              href="https://leetcode.com/u/prakash/"
               target="_blank"
               rel="noopener noreferrer"
             >

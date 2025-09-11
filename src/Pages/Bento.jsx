@@ -128,7 +128,7 @@ const AchievementsTable = () => {
       video:
         "https://res.cloudinary.com/dqhrbaeqk/video/upload/ar_16:9,c_pad,b_black/ipnm4aslw7bobysrvy76.mp4",
       title:
-        "Stumart: Campus Stationery Exchange Facilitating Student Collaboration",
+        "Mobile application: Campus Stationery Exchange Facilitating Student Collaboration",
       description:
         "Developed a cross-platform mobile application with React Native and Firebase, facilitating real-time resource sharing for 1000+ students across campus departments. Integrated real-time data synchronization, secure user authentication, and a scalable backend architecture to enhance usability and performance.",
       techStack: ["React Navtive", "Firebase"],
