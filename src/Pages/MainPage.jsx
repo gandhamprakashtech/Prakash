@@ -84,7 +84,7 @@ function Home() {
                   href="https://drive.google.com/file/d/1PsfIhJbqRgvQ3Y_Zn7brYqznncALxcMx/view?usp=sharing"
                   className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-neutral-100 hover:underline"
                 >
-                  My resume you can download here
+                  Download Resume
                 </a>
               </div>
             </div>

@@ -116,6 +116,15 @@ const AchievementsTable = () => {
 
     {
       video:
+        "https://res.cloudinary.com/dqhrbaeqk/video/upload/v1750158409/a2g7pfd9yitvtcz24j64.mp4",
+      title: "ClimaGraph",
+      description: "",
+      techStack: ["React.JS", "WeatherAPI", "Cascading Styles"],
+      link: "https://climagraph.vercel.app/",
+    },
+
+    {
+      video:
         "https://res.cloudinary.com/dqhrbaeqk/video/upload/p880ngqat7zlc1b5ktm9.mp4",
       title: "Note-Locker",
       description:
