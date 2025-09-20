@@ -106,7 +106,7 @@ const AchievementsTable = () => {
 
     {
       video:
-        "https://res.cloudinary.com/dqhrbaeqk/video/upload/v1750158409/a2g7pfd9yitvtcz24j64.mp4",
+        "https://drive.google.com/file/d/1Ak8zun19NZ8namgTXkclJy4v03zWOG7m/view?usp=drive_link",
       title: "AttedanceTracker",
       description:
         "Built ClimaGraph, a React.js application that integrates the OpenWeatherMap API and Google Maps API to generate professional weather reports with real-time data. Designed interactive charts, PDF export functionality, and a responsive dark/light themed UI using TailwindCSS for a seamless multi-device experience.",
