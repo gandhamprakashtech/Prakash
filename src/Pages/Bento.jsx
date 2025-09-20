@@ -118,7 +118,8 @@ const AchievementsTable = () => {
       video:
         "https://res.cloudinary.com/dqhrbaeqk/video/upload/v1750158409/a2g7pfd9yitvtcz24j64.mp4",
       title: "ClimaGraph",
-      description: "",
+      description:
+        "Developed ClimaGraph, a React.js application that generates professional weather reports with real-time data, interactive charts, and PDF export functionality. Implemented Google Maps integration for location selection, report history with localStorage, and a responsive dark/light themed UI using TailwindCSS, ensuring a seamless experience across devices.",
       techStack: ["React.JS", "WeatherAPI", "Cascading Styles"],
       link: "https://climagraph.vercel.app/",
     },
