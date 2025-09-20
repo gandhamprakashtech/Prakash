@@ -115,7 +115,7 @@ const AchievementsTable = () => {
     },
 
     {
-      video:
+      image:
         "https://drive.google.com/uc?export=view&id=1Ak8zun19NZ8namgTXkclJy4v03zWOG7m",
       title: "ClimaGraph",
       description:
