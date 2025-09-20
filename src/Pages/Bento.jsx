@@ -109,7 +109,7 @@ const AchievementsTable = () => {
         "https://res.cloudinary.com/dqhrbaeqk/video/upload/v1750158409/a2g7pfd9yitvtcz24j64.mp4",
       title: "AttedanceTracker",
       description:
-        "Designed and implemented an Attendance Tracker using Python and OpenCV that automates student check-ins through facial recognition. Developed a user-friendly admin interface with Tkinter to manage user registration and attendance logs securely, all without the need for manual input.",
+        "Built ClimaGraph, a React.js application that integrates the OpenWeatherMap API and Google Maps API to generate professional weather reports with real-time data. Designed interactive charts, PDF export functionality, and a responsive dark/light themed UI using TailwindCSS for a seamless multi-device experience.",
       techStack: ["Python", "OpenCV", "Cascading Styles"],
       link: "https://github.com/gandhamprakashtech/AttendanceTracker",
     },
