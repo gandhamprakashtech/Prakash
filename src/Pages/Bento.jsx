@@ -86,10 +86,18 @@ const AchievementsTable = () => {
 
     {
       video:
-        "https://res.cloudinary.com/dyny7wc0n/video/upload/v1731751165/Untitled_design_4_g60jom.mp4",
+        "https://res.cloudinary.com/dqhrbaeqk/video/upload/v1760414981/Plant_Darbar_vg7r0p.mp4",
       title: "Plan Darbar",
-      description: "Developed a full-stack e-commerce platform ",
-      techStack: ["ReactJS", "TailwindCSS", "Supabase"],
+      description:
+        "Developed a full-stack sustainable e-commerce platform specializing in upcycled plant containers and eco-friendly gardening services. This project taught me how to build custom admin dashboards, implement file upload systems, and create responsive designs with modern CSS techniques. ",
+      techStack: [
+        "ReactJS",
+        "Node.js",
+        "RESTful API",
+        "HTML5/CSS3",
+        "TailwindCSS",
+        "Supabase",
+      ],
       link: "https://plant-darbar-new.vercel.app/",
     },
 
@@ -124,8 +132,8 @@ const AchievementsTable = () => {
     },
 
     {
-      image:
-        "https://drive.google.com/uc?export=view&id=1Ak8zun19NZ8namgTXkclJy4v03zWOG7m",
+      video:
+        "https://res.cloudinary.com/dqhrbaeqk/video/upload/v1760416061/ClimaGraph_ojprlx.mp4",
       title: "ClimaGraph",
       description:
         "Developed ClimaGraph, a React.js application that generates professional weather reports with real-time data, interactive charts, and PDF export functionality. Implemented Google Maps integration for location selection, report history with localStorage, and a responsive dark/light themed UI using TailwindCSS, ensuring a seamless experience across devices.",
@@ -215,6 +223,20 @@ const AchievementsTable = () => {
 
   const experience = [
     {
+      year: "June 2025 - Present",
+      title: "Freelance FullStack Developer",
+      description:
+        "Working as a Freelance Full Stack Developer at Dozier Technologies, developing and optimizing user interfaces with React, while also handling backend tasks, Supabase integration, and API development. Focused on building responsive, user-friendly components and delivering end-to-end solutions for clients.",
+      technologies: ["React", "Node.js", "Supabase", "APIs"],
+    },
+    {
+      year: "July 2024 - Present",
+      title: "Lecturer - Computer Engineering Department",
+      description:
+        "Associated with A.A.N.M. & V.V.R.S.R. Polytechnic, Gudlavalleru, handling core subjects such as Android Programming and Computer Fundamentals. Involved in guiding students through both theoretical understanding and hands-on lab sessions, fostering practical insights into modern computing and software development concepts.",
+      technologies: ["Java", "Android", "XML", "SQL", "Computer Fundamentals"],
+    },
+    {
       year: "Feb 2025 - May 2025",
       title: "Frontend Developer Intern",
       description:
@@ -228,13 +250,13 @@ const AchievementsTable = () => {
         "Developed StuMart, a mobile marketplace application built with React Native and Firebase, enabling students to seamlessly buy, sell, and exchange academic resources such as books, electronics, and stationery. Implemented secure user authentication, real-time database integration, and an intuitive user interface to enhance accessibility and efficiency within campus communities.",
       technologies: ["ReactNative", "Firebase", "Figma", "Github", "Git"],
     },
-    {
-      year: "Jun 2024 - Sep 2024",
-      title: "Assistant C/C++ Developer Virtual Internship",
-      description:
-        "Completed a Virtual Internship as a C/C++ Developer at Amaravathi Software Innovations Pvt. Ltd from June to July 2024. Assisted in writing and debugging C/C++ code to improve application stability and performance. Worked with the development team to implement new features, fix issues, and support overall project development within set timelines.",
-      technologies: ["C++", "C", "Git"],
-    },
+    // {
+    //   year: "Jun 2024 - Sep 2024",
+    //   title: "Assistant C/C++ Developer Virtual Internship",
+    //   description:
+    //     "Completed a Virtual Internship as a C/C++ Developer at Amaravathi Software Innovations Pvt. Ltd from June to July 2024. Assisted in writing and debugging C/C++ code to improve application stability and performance. Worked with the development team to implement new features, fix issues, and support overall project development within set timelines.",
+    //   technologies: ["C++", "C", "Git"],
+    // },
   ];
 
   const education = [
@@ -248,7 +270,7 @@ const AchievementsTable = () => {
           rel="noopener noreferrer"
           className="hover:text-blue-500 "
         >
-          VR Siddhartha Engineering College
+          VR Siddhartha Engineering College | Score - 8.4 CGPA
         </a>
       ),
       location: "Vijayawada, Andhra Pradesh",
@@ -264,7 +286,7 @@ const AchievementsTable = () => {
           rel="noopener noreferrer"
           className="hover:text-blue-500 "
         >
-          AANM and VVSRS Polytechnic
+          AANM and VVSRS Polytechnic | Score - 9.6 CGPA
         </a>
       ),
       location: "Gudlavalleru, Andhra Pradesh",
