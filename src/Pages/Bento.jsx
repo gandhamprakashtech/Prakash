@@ -87,6 +87,15 @@ const AchievementsTable = () => {
     {
       video:
         "https://res.cloudinary.com/dyny7wc0n/video/upload/v1731751165/Untitled_design_4_g60jom.mp4",
+      title: "Plan Darbar",
+      description: "Developed a full-stack e-commerce platform ",
+      techStack: ["ReactJS", "TailwindCSS", "Supabase"],
+      link: "https://plant-darbar-new.vercel.app/",
+    },
+
+    {
+      video:
+        "https://res.cloudinary.com/dyny7wc0n/video/upload/v1731751165/Untitled_design_4_g60jom.mp4",
       title: "ShopIt Ecommerce",
       description:
         "Developed a full-stack e-commerce platform with a seamless and responsive user interface. This project taught me how to handle state management with Redux, implement secure user authentication, and design intuitive layouts for better user experiences.",

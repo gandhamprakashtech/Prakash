@@ -25,6 +25,8 @@ const TextShpere = () => {
       "MongoDB",
       "Java Spring",
       "Java SpringBoot",
+      "Supabase",
+      "Figma",
     ];
 
     // Determine radius based on screen width
