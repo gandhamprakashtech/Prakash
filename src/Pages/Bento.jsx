@@ -98,7 +98,7 @@ const AchievementsTable = () => {
         "TailwindCSS",
         "Supabase",
       ],
-      link: "https://plant-darbar-new.vercel.app/",
+      link: "https://plantdarbar.com",
     },
 
     {
