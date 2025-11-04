@@ -118,7 +118,7 @@ const AchievementsTable = () => {
       description:
         "Built a secure file-sharing application that allows users to share files without requiring login credentials. Through this project, I gained insights into API integration, secure file handling, and maintaining user privacy while ensuring a smooth workflow.",
       techStack: ["React", "Express.js", "Tailwind CSS"],
-      link: "https://github.com/gandhamprakashtech/temppad",
+      link: "https://temppad.vercel.app/",
     },
 
     {
@@ -148,7 +148,7 @@ const AchievementsTable = () => {
       description:
         "Developed NotesLocker, a secure and user-friendly note-taking web application using HTML, CSS (with Bootstrap), and vanilla JavaScript. Implemented localStorage for client-side data management, enabling users to add, search, and delete notes with real-time updates. Integrated password protection for individual notes and timestamping for each entry — all without relying on any backend or external libraries.",
       techStack: [],
-      link: "https://github.com/gandhamprakashtech/NoteLocker",
+      link: "https://notelocker-one.vercel.app/",
     },
 
     {
